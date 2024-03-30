@@ -1,0 +1,8 @@
+[User: 2023-09-13 12:29:26] Log In
+[User: 2023-09-13 12:29:47] Player Data Inserted
+[User: 2023-09-13 12:30:00] Player Data Inserted
+[User: 2023-09-13 12:30:28] Player Data Inserted
+[User: 2023-09-13 12:31:02] Player Data Updated
+[User: 2023-09-13 12:31:13] Player Data Deleted
+[User: 2023-09-13 12:31:42] Player Data Inserted
+[User: 2023-09-13 12:31:46] Log Out

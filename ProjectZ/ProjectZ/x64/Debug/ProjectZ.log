@@ -1,0 +1,35 @@
+﻿  Error.h
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\Error.h(6,9): error C2065: 'm_LogLevel': undeclared identifier
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\Error.h(6,23): error C2065: 'LevelError': undeclared identifier
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\Error.h(8,14): error C2039: 'cout': is not a member of 'std'
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\predefined C++ types (compiler internal)(342,11): message : see declaration of 'std'
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\Error.h(8,19): error C2065: 'cout': undeclared identifier
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\Error.h(8,53): error C2039: 'endl': is not a member of 'std'
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\predefined C++ types (compiler internal)(342,11): message : see declaration of 'std'
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\Error.h(8,57): error C2065: 'endl': undeclared identifier
+  Info.h
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\Info.h(6,9): error C2065: 'm_LogLevel': undeclared identifier
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\Info.h(6,23): error C2065: 'LevelInfo': undeclared identifier
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\Info.h(8,14): error C2039: 'cout': is not a member of 'std'
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\predefined C++ types (compiler internal)(342,11): message : see declaration of 'std'
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\Info.h(8,19): error C2065: 'cout': undeclared identifier
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\Info.h(8,52): error C2039: 'endl': is not a member of 'std'
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\predefined C++ types (compiler internal)(342,11): message : see declaration of 'std'
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\Info.h(8,56): error C2065: 'endl': undeclared identifier
+  SetLogLevel.h
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\SetLogLevel.h(2,6): error C2182: 'SetLogLevel': this use of 'void' is not valid
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\SetLogLevel.h(2,18): error C2065: 'Level': undeclared identifier
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\SetLogLevel.h(2,24): error C2146: syntax error: missing ')' before identifier 'level'
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\SetLogLevel.h(4,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\SetLogLevel.h(4,1): error C2447: '{': missing function header (old-style formal list?)
+  Source.cpp
+  Warm.h
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\Warm.h(6,9): error C2065: 'm_LogLevel': undeclared identifier
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\Warm.h(6,23): error C2065: 'LevelWarning': undeclared identifier
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\Warm.h(8,14): error C2039: 'cout': is not a member of 'std'
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\predefined C++ types (compiler internal)(342,11): message : see declaration of 'std'
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\Warm.h(8,19): error C2065: 'cout': undeclared identifier
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\Warm.h(8,55): error C2039: 'endl': is not a member of 'std'
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\predefined C++ types (compiler internal)(342,11): message : see declaration of 'std'
+C:\Users\Sourav\source\repos\ProjectZ\ProjectZ\Warm.h(8,59): error C2065: 'endl': undeclared identifier
+  Generating Code...

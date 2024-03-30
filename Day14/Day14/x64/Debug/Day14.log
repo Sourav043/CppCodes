@@ -1,0 +1,4 @@
+﻿  binaryDistance.cpp
+C:\Users\Sourav\source\repos\Day14\Day14\binaryDistance.cpp(8,34): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Sourav\source\repos\Day14\Day14\binaryDistance.cpp(11,34): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  Day14.vcxproj -> C:\Users\Sourav\source\repos\Day14\x64\Debug\Day14.exe

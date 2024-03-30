@@ -1,0 +1,13 @@
+﻿  Date.cpp
+  Log.cpp
+  Main.cpp
+  PlayerDataBase.cpp
+  String.cpp
+C:\Users\Sourav Sarkar\Desktop\Cpp Training Codes\ZuruProject1\ZuruProject1\String.cpp(12,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sourav Sarkar\Desktop\Cpp Training Codes\ZuruProject1\ZuruProject1\String.cpp(48,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sourav Sarkar\Desktop\Cpp Training Codes\ZuruProject1\ZuruProject1\String.cpp(49,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sourav Sarkar\Desktop\Cpp Training Codes\ZuruProject1\ZuruProject1\String.cpp(62,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sourav Sarkar\Desktop\Cpp Training Codes\ZuruProject1\ZuruProject1\String.cpp(63,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  LINK : C:\Users\Sourav Sarkar\Desktop\Cpp Training Codes\ZuruProject1\x64\Debug\ZuruProject1.exe not found or not built by the last incremental link; performing full link
+  ZuruProject1.vcxproj -> C:\Users\Sourav Sarkar\Desktop\Cpp Training Codes\ZuruProject1\x64\Debug\ZuruProject1.exe

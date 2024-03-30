@@ -1,0 +1,5 @@
+﻿  Dangling.cpp
+  array.cpp
+  Generating Code...
+C:\Users\Sourav\source\repos\Day7\Day7\Dangling.cpp(6): warning C4172: returning address of local variable or temporary: a
+  Day7.vcxproj -> C:\Users\Sourav\source\repos\Day7\x64\Debug\Day7.exe

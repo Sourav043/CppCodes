@@ -1,0 +1,6 @@
+[Inserted at 2023-09-13 12:29:47] Name: Sourav, ID: 43, Age: 21, TeamName: Bengal
+[Inserted at 2023-09-13 12:30:00] Name: Ujjal, ID: 44, Age: 22, TeamName: Goa
+[Inserted at 2023-09-13 12:30:28] Name: Nayan, ID: 23, Age: 75, TeamName: Bhutan
+[Updated at 2023-09-13 12:31:02] Name: Moon, ID: 23, Age: 26, TeamName: Patna
+[Deleted at 2023-09-13 12:31:13] Player Id No: 23 is Deleted From Database
+[Inserted at 2023-09-13 12:31:42] Name: Sneha, ID: 11, Age: 13, TeamName: Sikkim

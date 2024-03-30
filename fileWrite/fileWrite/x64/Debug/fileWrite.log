@@ -1,0 +1,74 @@
+﻿  playerDtabase.cpp
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(42,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(42,24): error C2143: syntax error: missing ',' before '&'
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(43,12): error C3646: 'getName': unknown override specifier
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(43,19): error C2059: syntax error: '('
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(43,27): error C2238: unexpected token(s) preceding ';'
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(44,12): error C3646: 'getTeamName': unknown override specifier
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(44,23): error C2059: syntax error: '('
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(44,31): error C2238: unexpected token(s) preceding ';'
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(49,12): error C3646: 'name': unknown override specifier
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(49,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(50,12): error C3646: 'teamName': unknown override specifier
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(50,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(57,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(57,24): error C2143: syntax error: missing ',' before '&'
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerDtabase.cpp(65,9): error C2511: 'Entity::Entity(const String &,int,int,const String &)': overloaded member function not found in 'Entity'
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(40,7): message : see declaration of 'Entity'
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerDtabase.cpp(66,56): error C2550: 'Entity::{ctor}': constructor initializer lists are only allowed on constructor definitions
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerDtabase.cpp(68,16): error C2039: 'getName': is not a member of 'Entity'
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(40,7): message : see declaration of 'Entity'
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerDtabase.cpp(68,32): error C2270: 'getName': modifiers not allowed on nonmember functions
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerDtabase.cpp(69,12): error C2065: 'name': undeclared identifier
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerDtabase.cpp(72,16): error C2039: 'getTeamName': is not a member of 'Entity'
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(40,7): message : see declaration of 'Entity'
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerDtabase.cpp(72,36): error C2270: 'getTeamName': modifiers not allowed on nonmember functions
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerDtabase.cpp(73,12): error C2065: 'teamName': undeclared identifier
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerDtabase.cpp(84,9): error C2511: 'Player::Player(const String &,int,int,const String &)': overloaded member function not found in 'Player'
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(55,7): message : see declaration of 'Player'
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerDtabase.cpp(85,39): error C2550: 'Player::{ctor}': constructor initializer lists are only allowed on constructor definitions
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerDtabase.cpp(111,41): error C2039: 'getName': is not a member of 'Player'
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(55,7): message : see declaration of 'Player'
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerDtabase.cpp(111,151): error C2039: 'getTeamName': is not a member of 'Player'
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(55,7): message : see declaration of 'Player'
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerDtabase.cpp(112,34): error C2039: 'getName': is not a member of 'Player'
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(55,7): message : see declaration of 'Player'
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerDtabase.cpp(112,144): error C2039: 'getTeamName': is not a member of 'Player'
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(55,7): message : see declaration of 'Player'
+  string.cpp
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\string.cpp(9,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\string.cpp(41,16): error C2039: '>>': is not a member of 'String'
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\string.h(3,7): message : see declaration of 'String'
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\string.cpp(42,5): error C2065: 'm_Size': undeclared identifier
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\string.cpp(43,5): error C2065: 'm_Data': undeclared identifier
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\string.cpp(43,23): error C2065: 'm_Size': undeclared identifier
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\string.cpp(43,34): error C3078: array size must be specified in new expressions without an initializer
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\string.cpp(45,12): error C2065: 'm_Data': undeclared identifier
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\string.cpp(45,28): error C2065: 'm_Size': undeclared identifier
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\string.cpp(46,5): error C2065: 'm_Data': undeclared identifier
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\string.cpp(46,12): error C2065: 'm_Size': undeclared identifier
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\string.cpp(47,12): error C2065: 'm_Data': undeclared identifier
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\string.cpp(78,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\string.cpp(79,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\string.cpp(92,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\string.cpp(93,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  writeinFile.cpp
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(42,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(42,24): error C2143: syntax error: missing ',' before '&'
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(43,12): error C3646: 'getName': unknown override specifier
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(43,19): error C2059: syntax error: '('
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(43,27): error C2238: unexpected token(s) preceding ';'
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(44,12): error C3646: 'getTeamName': unknown override specifier
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(44,23): error C2059: syntax error: '('
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(44,31): error C2238: unexpected token(s) preceding ';'
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(49,12): error C3646: 'name': unknown override specifier
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(49,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(50,12): error C3646: 'teamName': unknown override specifier
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(50,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(57,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\playerdatabase.h(57,24): error C2143: syntax error: missing ',' before '&'
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\writeinFile.cpp(103,26): error C2661: 'Player::Player': no overloaded function takes 4 arguments
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\writeinFile.cpp(103,26): message : while trying to match the argument list '(String, int, int, String)'
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\writeinFile.cpp(118,33): error C2661: 'Player::Player': no overloaded function takes 4 arguments
+C:\Users\Sourav\source\repos\fileWrite\fileWrite\writeinFile.cpp(118,33): message : while trying to match the argument list '(String, int, int, String)'
+  Generating Code...
